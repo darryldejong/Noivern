@@ -5,7 +5,7 @@ Noivern is een chatbot gebouwd met React en JavaScript. De chatbot kan gesprekke
 ![Image](Image.png)
 
 ## Hoe werkt het?
-1. Typ een bericht in het invoerveld en druk op versturen.
+1. Typ een bericht in het invoerveld.
 2. Als de chatbot iets niet begrijpt, vraagt hij om uitleg begin met "het betekent ..." om hem iets nieuws te leren.
 3. De chatbot onthoudt de nieuwe informatie en gebruikt deze in toekomstige gesprekken.
 
