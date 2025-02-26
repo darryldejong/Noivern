@@ -1,6 +1,6 @@
 # Noivern
 
-Noivern is een chatbot gebouwd met React en JavaScript. De chatbot kan gesprekken voeren, vragen beantwoorden en leren van gebruikers.
+Noivern is een chatbot gebouwd met React. De chatbot kan gesprekken voeren, vragen beantwoorden en leren van gebruikers.
 
 ![Image](Image.png)
 
